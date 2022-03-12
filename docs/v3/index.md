@@ -18,7 +18,7 @@ Note: This documentation is only for version 3.*!
 * [Migrate from existing DD 2.* to 3.0](information/migrate-v2-to-v3.md)
 
 ### Information
-* [FAQ - frequently asked question](information/faq.md)
+* [FAQ - Frequently Asked Questions](information/faq.md)
 * [Dwains Dashboard Releases](https://github.com/dwainscheeren/dwains-lovelace-dashboard/releases)
 * [How to use Dwains Dashboard notifications](information/notifications.md)
 
@@ -30,7 +30,7 @@ Also take a look in the [blueprints repository](https://github.com/dwainscheeren
 
 ### Support or got problems with DD?
 * [Report a bug](https://github.com/dwainscheeren/dwains-lovelace-dashboard/issues)
-* [Ask for a Feature Requests](https://github.com/dwainscheeren/dwains-lovelace-dashboard/discussions)
+* [Feature Requests](https://github.com/dwainscheeren/dwains-lovelace-dashboard/discussions)
 * [Dwains Dashboard Home Assistant forum thread](https://community.home-assistant.io/t/dwains-theme-an-auto-generating-lovelace-ui-theme/168593?u=dwains)
 * [Dwains Dashboard Discord Server](https://discord.gg/7yt64uX)
 
