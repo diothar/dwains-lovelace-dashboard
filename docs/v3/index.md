@@ -18,12 +18,12 @@ Note: This documentation is only for version 3.*!
 * [Migrate from existing DD 2.* to 3.0](information/migrate-v2-to-v3.md)
 
 ### Information
-* [FAQ - frequently asked question](information/faq.md)
+* [FAQ - Frequently Asked Questions](information/faq.md)
 * [Dwains Dashboard Releases](https://github.com/dwainscheeren/dwains-lovelace-dashboard/releases)
 * [How to use Dwains Dashboard notifications](information/notifications.md)
 
 ### Blueprints
-* [What are Dwains Dashboard blueprints](blueprint/what-are-blueprints.md)
+* [What are Dwains Dashboard Blueprints?](blueprint/what-are-blueprints.md)
 * [Blueprint tutorial](blueprint/tutorial.md)
 
 Also take a look in the [blueprints repository](https://github.com/dwainscheeren/dwains-dashboard-blueprints).
